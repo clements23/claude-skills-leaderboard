@@ -2,7 +2,8 @@ import { readFileSync, writeFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 
-const README = join(dirname(fileURLToPath(import.meta.url)), '..', 'README.md');
+const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
+const README = join(ROOT, 'README.md');
 const TOKEN = process.env.GITHUB_TOKEN || process.env.GH_TOKEN;
 const PERIOD_DAYS = 30;
 
@@ -98,7 +99,54 @@ async function main() {
 
   const next = readme.slice(0, startIndex) + sections.join('\n') + readme.slice(endIndex + end.length);
   writeFileSync(README, next);
-  console.log(`Leaderboard updated: ${all.length} repositories tracked, ${top.length} ranked, ${fresh.length} trending.`);
+
+  const slim = (repo) => ({
+    repository: repo.full_name,
+    url: repo.html_url,
+    stars: repo.stargazers_count,
+    forks: repo.forks_count,
+    description: repo.description || '',
+    created_at: repo.created_at
+  });
+  const json = {
+    generated_at: new Date().toISOString(),
+    source: 'github-search-api',
+    queries: QUERIES,
+    total_tracked: all.length,
+    top: top.map(slim),
+    trending_last_days: { period_days: PERIOD_DAYS, repositories: fresh.map(slim) }
+  };
+  writeFileSync(join(ROOT, 'leaderboard.json'), `${JSON.stringify(json, null, 2)}\n`);
+
+  const llms = [
+    '# Claude Skills Leaderboard',
+    '',
+    'Live ranking of the most starred AI agent skill repositories on GitHub, updated hourly by GitHub Actions from the GitHub Search API.',
+    '',
+    `Generated: ${updated} UTC. Total repositories tracked: ${all.length}.`,
+    '',
+    '## Top 10 most starred skill repositories',
+    '',
+    ...top.slice(0, 10).map((repo, i) => `${i + 1}. ${repo.full_name}: ${repo.stargazers_count} stars. ${truncate(repo.description, 200)} (${repo.html_url})`),
+    '',
+    `## Trending new skill repositories (last ${PERIOD_DAYS} days)`,
+    '',
+    ...(fresh.length > 0
+      ? fresh.slice(0, 10).map((repo, i) => `${i + 1}. ${repo.full_name}: ${repo.stargazers_count} stars. ${truncate(repo.description, 200)} (${repo.html_url})`)
+      : ['None matched in this period.']),
+    '',
+    '## Full data',
+    '',
+    '- Markdown leaderboard: https://github.com/clements23/claude-skills-leaderboard#live-leaderboard',
+    '- Machine-readable JSON: https://github.com/clements23/claude-skills-leaderboard/blob/main/leaderboard.json',
+    '- Raw JSON: https://raw.githubusercontent.com/clements23/claude-skills-leaderboard/main/leaderboard.json',
+    '',
+    'To get listed, add the claude-skills or agent-skills topic to your repository and mention skills in the name or description.',
+    ''
+  ].join('\n');
+  writeFileSync(join(ROOT, 'llms.txt'), llms);
+
+  console.log(`Leaderboard updated: ${all.length} repositories tracked, ${top.length} ranked, ${fresh.length} trending. JSON and llms.txt written.`);
 }
 
 main().catch((err) => {
