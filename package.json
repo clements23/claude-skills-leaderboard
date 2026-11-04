@@ -1,0 +1,26 @@
+{
+  "name": "claude-skills-leaderboard",
+  "version": "1.0.0",
+  "description": "Live GitHub leaderboard of the most starred Claude skills and AI agent skill repositories, auto-updated every hour by GitHub Actions.",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "claude-skills",
+    "leaderboard",
+    "awesome-claude-skills",
+    "ai-skills",
+    "trending",
+    "github-actions"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clements23/claude-skills-leaderboard.git"
+  },
+  "homepage": "https://github.com/clements23/claude-skills-leaderboard#readme"
+}
