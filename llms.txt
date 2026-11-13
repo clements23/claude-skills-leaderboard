@@ -2,33 +2,33 @@
 
 Live ranking of the most starred AI agent skill repositories on GitHub, updated hourly by GitHub Actions from the GitHub Search API.
 
-Generated: 2026-11-13 16:28:43 UTC. Total repositories tracked: 418.
+Generated: 2026-11-13 22:40:50 UTC. Total repositories tracked: 418.
 
 ## Top 10 most starred skill repositories
 
-1. morluto/rea: 456991 stars. Reverse engineer anything with agents, from app behavior down to native binaries. (https://github.com/morluto/rea)
-2. affaan-m/ECC: 302326 stars. The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (https://github.com/affaan-m/ECC)
-3. multica-ai/andrej-karpathy-skills: 232761 stars. A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. (https://github.com/multica-ai/andrej-karpathy-skills)
-4. anthropics/skills: 194029 stars. Public repository for Agent Skills (https://github.com/anthropics/skills)
-5. DietrichGebert/ponytail: 190192 stars. Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (https://github.com/DietrichGebert/ponytail)
-6. nextlevelbuilder/ui-ux-pro-max-skill: 148993 stars. An AI skill that provides design intelligence for building professional UI/UX across multiple platforms. (https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
-7. Graphify-Labs/graphify: 147128 stars. Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, ... (https://github.com/Graphify-Labs/graphify)
-8. addyosmani/agent-skills: 117046 stars. Production-grade engineering skills for AI coding agents. (https://github.com/addyosmani/agent-skills)
-9. thedotmack/claude-mem: 116771 stars. Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla... (https://github.com/thedotmack/claude-mem)
-10. Leonxlnx/taste-skill: 114820 stars. Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages (https://github.com/Leonxlnx/taste-skill)
+1. morluto/rea: 457521 stars. Reverse engineer anything with agents, from app behavior down to native binaries. (https://github.com/morluto/rea)
+2. affaan-m/ECC: 302435 stars. The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (https://github.com/affaan-m/ECC)
+3. multica-ai/andrej-karpathy-skills: 232859 stars. A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. (https://github.com/multica-ai/andrej-karpathy-skills)
+4. anthropics/skills: 194112 stars. Public repository for Agent Skills (https://github.com/anthropics/skills)
+5. DietrichGebert/ponytail: 190335 stars. Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (https://github.com/DietrichGebert/ponytail)
+6. nextlevelbuilder/ui-ux-pro-max-skill: 149080 stars. An AI skill that provides design intelligence for building professional UI/UX across multiple platforms. (https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
+7. Graphify-Labs/graphify: 147261 stars. Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, ... (https://github.com/Graphify-Labs/graphify)
+8. addyosmani/agent-skills: 117123 stars. Production-grade engineering skills for AI coding agents. (https://github.com/addyosmani/agent-skills)
+9. thedotmack/claude-mem: 116832 stars. Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla... (https://github.com/thedotmack/claude-mem)
+10. Leonxlnx/taste-skill: 115009 stars. Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages (https://github.com/Leonxlnx/taste-skill)
 
 ## Trending new skill repositories (last 30 days)
 
-1. heydamir/unslop: 15547 stars. A Claude skill that turns vibecoded, AI-looking UI into a designed interface (https://github.com/heydamir/unslop)
-2. janestreet/agent_skills: 8131 stars. Agent skills (https://github.com/janestreet/agent_skills)
-3. JuneYaooo/rea-video: 7851 stars. Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。 (https://github.com/JuneYaooo/rea-video)
-4. Jakeschincariol/day-trader-skill: 7562 stars. 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar. (https://github.com/Jakeschincariol/day-trader-skill)
-5. patch-gg/pixelfx: 7293 stars. 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own. (https://github.com/patch-gg/pixelfx)
-6. alchaincyf/huashu-motion: 2687 stars. 让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it. (https://github.com/alchaincyf/huashu-motion)
-7. caru-ini/stack-diagram: 2476 stars. Agent skill: describe your stack in a sentence, get an architecture diagram with official logos (https://github.com/caru-ini/stack-diagram)
-8. DUNHKpcc/Claude-Guardian: 2039 stars. Claude Guardian is an all-in-one Claude account safety and risk prevention skill.Claude防封实战 It intelligently assesses your device, account history, network environment, and payment options, then prov... (https://github.com/DUNHKpcc/Claude-Guardian)
-9. morganlinton/BeautifulRust: 1807 stars. Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI. (https://github.com/morganlinton/BeautifulRust)
-10. Jakeschincariol/trader-skill: 1772 stars. 11 Claude skills that copy the investors you trust, watch the news and Congress, size every trade to your budget, and never place an order without your yes. (https://github.com/Jakeschincariol/trader-skill)
+1. heydamir/unslop: 15641 stars. A Claude skill that turns vibecoded, AI-looking UI into a designed interface (https://github.com/heydamir/unslop)
+2. janestreet/agent_skills: 8250 stars. Agent skills (https://github.com/janestreet/agent_skills)
+3. JuneYaooo/rea-video: 7959 stars. Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。 (https://github.com/JuneYaooo/rea-video)
+4. Jakeschincariol/day-trader-skill: 7605 stars. 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar. (https://github.com/Jakeschincariol/day-trader-skill)
+5. patch-gg/pixelfx: 7323 stars. 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own. (https://github.com/patch-gg/pixelfx)
+6. alchaincyf/huashu-motion: 2692 stars. 让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it. (https://github.com/alchaincyf/huashu-motion)
+7. caru-ini/stack-diagram: 2481 stars. Agent skill: describe your stack in a sentence, get an architecture diagram with official logos (https://github.com/caru-ini/stack-diagram)
+8. DUNHKpcc/Claude-Guardian: 2042 stars. Claude Guardian is an all-in-one Claude account safety and risk prevention skill.Claude防封实战 It intelligently assesses your device, account history, network environment, and payment options, then prov... (https://github.com/DUNHKpcc/Claude-Guardian)
+9. morganlinton/BeautifulRust: 1808 stars. Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI. (https://github.com/morganlinton/BeautifulRust)
+10. zhanghao123vip/ai-manju-skills: 796 stars. 21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek (https://github.com/zhanghao123vip/ai-manju-skills)
 
 ## Full data
 
