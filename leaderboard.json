@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T04:31:50.586Z",
+  "generated_at": "2026-11-17T14:28:51.955Z",
   "source": "github-search-api",
   "queries": [
     "topic:claude-skills",
@@ -13,200 +13,200 @@
     {
       "repository": "morluto/rea",
       "url": "https://github.com/morluto/rea",
-      "stars": 464486,
-      "forks": 113686,
+      "stars": 465503,
+      "forks": 113931,
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "created_at": "2026-04-14T00:51:32Z"
     },
     {
       "repository": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 304742,
-      "forks": 44879,
+      "stars": 305092,
+      "forks": 44927,
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "created_at": "2026-01-18T00:51:51Z"
     },
     {
       "repository": "multica-ai/andrej-karpathy-skills",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "stars": 233787,
-      "forks": 23251,
+      "stars": 233916,
+      "forks": 23265,
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "created_at": "2026-01-27T03:53:13Z"
     },
     {
       "repository": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
-      "stars": 196162,
-      "forks": 23024,
+      "stars": 196489,
+      "forks": 23047,
       "description": "Public repository for Agent Skills",
       "created_at": "2025-09-22T15:53:31Z"
     },
     {
       "repository": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
-      "stars": 192295,
-      "forks": 10787,
+      "stars": 192642,
+      "forks": 10810,
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "created_at": "2026-06-12T00:52:37Z"
     },
     {
       "repository": "nextlevelbuilder/ui-ux-pro-max-skill",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "stars": 150507,
-      "forks": 15912,
+      "stars": 150737,
+      "forks": 15932,
       "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
       "created_at": "2025-11-30T11:36:31Z"
     },
     {
       "repository": "Graphify-Labs/graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
-      "stars": 149131,
-      "forks": 14333,
+      "stars": 149384,
+      "forks": 14362,
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "created_at": "2026-04-03T15:49:07Z"
     },
     {
       "repository": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
-      "stars": 118387,
-      "forks": 12358,
+      "stars": 118547,
+      "forks": 12369,
       "description": "Production-grade engineering skills for AI coding agents.",
       "created_at": "2026-02-15T20:20:26Z"
     },
     {
       "repository": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
-      "stars": 117754,
-      "forks": 10229,
+      "stars": 117875,
+      "forks": 10242,
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "created_at": "2025-08-31T20:50:03Z"
     },
     {
       "repository": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
-      "stars": 117017,
-      "forks": 7833,
+      "stars": 117439,
+      "forks": 7858,
       "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
       "created_at": "2026-02-19T21:44:05Z"
     },
     {
       "repository": "paperclipai/paperclip",
       "url": "https://github.com/paperclipai/paperclip",
-      "stars": 114392,
-      "forks": 18970,
+      "stars": 114488,
+      "forks": 18987,
       "description": "The open-source app everyone uses to manage agents at work",
       "created_at": "2026-03-02T15:01:51Z"
     },
     {
       "repository": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
-      "stars": 111486,
-      "forks": 6662,
+      "stars": 111873,
+      "forks": 6676,
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "created_at": "2025-11-16T01:52:04Z"
     },
     {
       "repository": "nexu-io/open-design",
       "url": "https://github.com/nexu-io/open-design",
-      "stars": 107973,
-      "forks": 12267,
+      "stars": 108052,
+      "forks": 12268,
       "description": "The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace.",
       "created_at": "2026-04-28T04:25:20Z"
     },
     {
       "repository": "tt-a1i/archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": 97215,
-      "forks": 6637,
+      "stars": 97363,
+      "forks": 6645,
       "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
       "created_at": "2026-04-15T05:27:37Z"
     },
     {
       "repository": "Egonex-AI/Understand-Anything",
       "url": "https://github.com/Egonex-AI/Understand-Anything",
-      "stars": 92886,
-      "forks": 7921,
+      "stars": 92970,
+      "forks": 7926,
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "created_at": "2026-03-15T02:30:51Z"
     },
     {
       "repository": "career-ops-hq/career-ops",
       "url": "https://github.com/career-ops-hq/career-ops",
-      "stars": 83142,
-      "forks": 15275,
+      "stars": 83233,
+      "forks": 15286,
       "description": "Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and an application tracker. It helps you fill in each application; you press Submit. Runs locally in Codex, OpenCode and other AI CLIs, or as a Claude Code plugin.",
       "created_at": "2026-04-04T18:21:18Z"
     },
     {
       "repository": "ComposioHQ/awesome-claude-skills",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "stars": 79669,
-      "forks": 9746,
+      "stars": 79701,
+      "forks": 9759,
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "created_at": "2025-10-17T07:15:01Z"
     },
     {
       "repository": "code-yeongyu/oh-my-openagent",
       "url": "https://github.com/code-yeongyu/oh-my-openagent",
-      "stars": 70954,
-      "forks": 5849,
+      "stars": 70966,
+      "forks": 5847,
       "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
       "created_at": "2025-12-03T01:40:05Z"
     },
     {
       "repository": "blader/humanizer",
       "url": "https://github.com/blader/humanizer",
-      "stars": 69980,
-      "forks": 5494,
+      "stars": 70203,
+      "forks": 5508,
       "description": "Agent skill that removes signs of AI-generated writing from text",
       "created_at": "2026-01-18T05:30:15Z"
     },
     {
       "repository": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "stars": 67682,
-      "forks": 4531,
+      "stars": 67801,
+      "forks": 4543,
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "created_at": "2026-04-16T18:01:16Z"
     },
     {
       "repository": "ayghri/i-have-adhd",
       "url": "https://github.com/ayghri/i-have-adhd",
-      "stars": 61408,
-      "forks": 3602,
+      "stars": 61460,
+      "forks": 3609,
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "created_at": "2026-05-13T20:42:06Z"
     },
     {
       "repository": "coreyhaines31/marketingskills",
       "url": "https://github.com/coreyhaines31/marketingskills",
-      "stars": 60857,
-      "forks": 8869,
+      "stars": 60954,
+      "forks": 8878,
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "created_at": "2026-01-15T19:45:23Z"
     },
     {
       "repository": "hesreallyhim/awesome-claude-code",
       "url": "https://github.com/hesreallyhim/awesome-claude-code",
-      "stars": 58184,
-      "forks": 4974,
+      "stars": 58216,
+      "forks": 4978,
       "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliation). A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
       "created_at": "2025-04-19T20:55:59Z"
     },
     {
       "repository": "emilkowalski/skills",
       "url": "https://github.com/emilkowalski/skills",
-      "stars": 57509,
-      "forks": 3376,
+      "stars": 57663,
+      "forks": 3384,
       "description": "Skills for Designers and Engineers.",
       "created_at": "2026-03-16T13:52:31Z"
     },
     {
       "repository": "K-Dense-AI/scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "stars": 57487,
-      "forks": 5052,
+      "stars": 57558,
+      "forks": 5058,
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "created_at": "2025-10-19T20:54:15Z"
     }
@@ -217,80 +217,64 @@
       {
         "repository": "heydamir/unslop",
         "url": "https://github.com/heydamir/unslop",
-        "stars": 17338,
-        "forks": 1010,
+        "stars": 17555,
+        "forks": 1026,
         "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
         "created_at": "2026-10-29T15:41:21Z"
       },
       {
         "repository": "JuneYaooo/rea-video",
         "url": "https://github.com/JuneYaooo/rea-video",
-        "stars": 9778,
-        "forks": 1439,
+        "stars": 10095,
+        "forks": 1482,
         "description": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。",
         "created_at": "2026-10-29T16:15:01Z"
       },
       {
         "repository": "janestreet/agent_skills",
         "url": "https://github.com/janestreet/agent_skills",
-        "stars": 9635,
-        "forks": 650,
+        "stars": 9783,
+        "forks": 658,
         "description": "Agent skills",
         "created_at": "2026-11-03T16:50:21Z"
       },
       {
         "repository": "Jakeschincariol/day-trader-skill",
         "url": "https://github.com/Jakeschincariol/day-trader-skill",
-        "stars": 8231,
-        "forks": 1970,
+        "stars": 8317,
+        "forks": 1989,
         "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
         "created_at": "2026-10-20T14:17:54Z"
       },
       {
         "repository": "patch-gg/pixelfx",
         "url": "https://github.com/patch-gg/pixelfx",
-        "stars": 7792,
-        "forks": 1023,
+        "stars": 7921,
+        "forks": 1036,
         "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
         "created_at": "2026-10-30T06:43:25Z"
       },
       {
-        "repository": "alchaincyf/huashu-motion",
-        "url": "https://github.com/alchaincyf/huashu-motion",
-        "stars": 2796,
-        "forks": 279,
-        "description": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
-        "created_at": "2026-10-18T12:19:27Z"
-      },
-      {
         "repository": "caru-ini/stack-diagram",
         "url": "https://github.com/caru-ini/stack-diagram",
-        "stars": 2551,
-        "forks": 136,
+        "stars": 2563,
+        "forks": 137,
         "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
         "created_at": "2026-11-01T05:35:12Z"
       },
       {
         "repository": "morganlinton/BeautifulRust",
         "url": "https://github.com/morganlinton/BeautifulRust",
-        "stars": 1938,
-        "forks": 95,
+        "stars": 2036,
+        "forks": 96,
         "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
         "created_at": "2026-10-23T03:01:11Z"
       },
       {
-        "repository": "NiazMorshed2007/reanimate",
-        "url": "https://github.com/NiazMorshed2007/reanimate",
-        "stars": 1731,
-        "forks": 147,
-        "description": "A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
-        "created_at": "2026-10-29T06:20:59Z"
-      },
-      {
         "repository": "zhanghao123vip/ai-manju-skills",
         "url": "https://github.com/zhanghao123vip/ai-manju-skills",
-        "stars": 864,
-        "forks": 155,
+        "stars": 896,
+        "forks": 160,
         "description": "21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek",
         "created_at": "2026-10-31T03:22:12Z"
       },
