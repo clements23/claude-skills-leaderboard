@@ -2,33 +2,33 @@
 
 Live ranking of the most starred AI agent skill repositories on GitHub, updated hourly by GitHub Actions from the GitHub Search API.
 
-Generated: 2026-11-24 10:58:47 UTC. Total repositories tracked: 415.
+Generated: 2026-11-24 21:16:01 UTC. Total repositories tracked: 415.
 
 ## Top 10 most starred skill repositories
 
-1. morluto/rea: 476296 stars. Reverse engineer anything with agents, from app behavior down to native binaries. (https://github.com/morluto/rea)
-2. affaan-m/ECC: 309839 stars. The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (https://github.com/affaan-m/ECC)
-3. multica-ai/andrej-karpathy-skills: 235396 stars. A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. (https://github.com/multica-ai/andrej-karpathy-skills)
-4. anthropics/skills: 199662 stars. Public repository for Agent Skills (https://github.com/anthropics/skills)
-5. DietrichGebert/ponytail: 197772 stars. Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (https://github.com/DietrichGebert/ponytail)
-6. nextlevelbuilder/ui-ux-pro-max-skill: 153533 stars. An AI skill that provides design intelligence for building professional UI/UX across multiple platforms. (https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
-7. Graphify-Labs/graphify: 152729 stars. Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, ... (https://github.com/Graphify-Labs/graphify)
-8. Leonxlnx/taste-skill: 120882 stars. Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages (https://github.com/Leonxlnx/taste-skill)
-9. addyosmani/agent-skills: 120096 stars. Production-grade engineering skills for AI coding agents. (https://github.com/addyosmani/agent-skills)
-10. thedotmack/claude-mem: 119424 stars. Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla... (https://github.com/thedotmack/claude-mem)
+1. morluto/rea: 476968 stars. Reverse engineer anything with agents, from app behavior down to native binaries. (https://github.com/morluto/rea)
+2. affaan-m/ECC: 310144 stars. The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (https://github.com/affaan-m/ECC)
+3. multica-ai/andrej-karpathy-skills: 235498 stars. A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. (https://github.com/multica-ai/andrej-karpathy-skills)
+4. anthropics/skills: 199902 stars. Public repository for Agent Skills (https://github.com/anthropics/skills)
+5. DietrichGebert/ponytail: 198011 stars. Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (https://github.com/DietrichGebert/ponytail)
+6. nextlevelbuilder/ui-ux-pro-max-skill: 153709 stars. An AI skill that provides design intelligence for building professional UI/UX across multiple platforms. (https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
+7. Graphify-Labs/graphify: 152957 stars. Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, ... (https://github.com/Graphify-Labs/graphify)
+8. Leonxlnx/taste-skill: 121072 stars. Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages (https://github.com/Leonxlnx/taste-skill)
+9. addyosmani/agent-skills: 120180 stars. Production-grade engineering skills for AI coding agents. (https://github.com/addyosmani/agent-skills)
+10. thedotmack/claude-mem: 119533 stars. Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla... (https://github.com/thedotmack/claude-mem)
 
 ## Trending new skill repositories (last 30 days)
 
-1. heydamir/unslop: 21046 stars. A Claude skill that turns vibecoded, AI-looking UI into a designed interface (https://github.com/heydamir/unslop)
-2. JuneYaooo/rea-video: 12865 stars. Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。 (https://github.com/JuneYaooo/rea-video)
-3. janestreet/agent_skills: 11491 stars. Agent skills (https://github.com/janestreet/agent_skills)
-4. erkamyaman/rust-anything: 8990 stars. Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java. (https://github.com/erkamyaman/rust-anything)
-5. patch-gg/pixelfx: 8967 stars. 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own. (https://github.com/patch-gg/pixelfx)
-6. mromidev/claude-animated-shorts: 4752 stars. Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion (https://github.com/mromidev/claude-animated-shorts)
-7. caru-ini/stack-diagram: 2872 stars. Agent skill: describe your stack in a sentence, get an architecture diagram with official logos (https://github.com/caru-ini/stack-diagram)
-8. NiazMorshed2007/reanimate: 2440 stars. A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same. (https://github.com/NiazMorshed2007/reanimate)
-9. zhanghao123vip/ai-manju-skills: 1027 stars. 21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek (https://github.com/zhanghao123vip/ai-manju-skills)
-10. yucezerey/turkish-anti-ai-skill: 332 stars. Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatalarını) temizleyen Agent Skill ve Humanizer paketi. (https://github.com/yucezerey/turkish-anti-ai-skill)
+1. heydamir/unslop: 21252 stars. A Claude skill that turns vibecoded, AI-looking UI into a designed interface (https://github.com/heydamir/unslop)
+2. JuneYaooo/rea-video: 12979 stars. Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。 (https://github.com/JuneYaooo/rea-video)
+3. janestreet/agent_skills: 11590 stars. Agent skills (https://github.com/janestreet/agent_skills)
+4. erkamyaman/rust-anything: 9172 stars. Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java. (https://github.com/erkamyaman/rust-anything)
+5. patch-gg/pixelfx: 9040 stars. 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own. (https://github.com/patch-gg/pixelfx)
+6. mromidev/claude-animated-shorts: 4805 stars. Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion (https://github.com/mromidev/claude-animated-shorts)
+7. caru-ini/stack-diagram: 2879 stars. Agent skill: describe your stack in a sentence, get an architecture diagram with official logos (https://github.com/caru-ini/stack-diagram)
+8. NiazMorshed2007/reanimate: 2480 stars. A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same. (https://github.com/NiazMorshed2007/reanimate)
+9. zhanghao123vip/ai-manju-skills: 1032 stars. 21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek (https://github.com/zhanghao123vip/ai-manju-skills)
+10. yucezerey/turkish-anti-ai-skill: 333 stars. Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatalarını) temizleyen Agent Skill ve Humanizer paketi. (https://github.com/yucezerey/turkish-anti-ai-skill)
 
 ## Full data
 
